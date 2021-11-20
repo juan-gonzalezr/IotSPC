@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afd7172b.chunk.css",
+    "main.js": "/static/js/main.2225589e.chunk.js",
+    "main.js.map": "/static/js/main.2225589e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.248907bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.248907bc.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.81cf1fa9.chunk.js": "/static/js/2.81cf1fa9.chunk.js",
+    "static/js/2.81cf1fa9.chunk.js.map": "/static/js/2.81cf1fa9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.81cf1fa9.chunk.js.LICENSE.txt": "/static/js/2.81cf1fa9.chunk.js.LICENSE.txt",
+    "static/media/Juancho.b8508882.png": "/static/media/Juancho.b8508882.png",
+    "static/media/Padilla.792c9ca7.png": "/static/media/Padilla.792c9ca7.png",
+    "static/media/Perro.b1e9404f.jpg": "/static/media/Perro.b1e9404f.jpg",
+    "static/media/Samuel.a37bf069.png": "/static/media/Samuel.a37bf069.png",
+    "static/media/gatito.a30071a6.jpg": "/static/media/gatito.a30071a6.jpg",
+    "static/media/gato.bfc59905.jpg": "/static/media/gato.bfc59905.jpg",
+    "static/media/perrito.95e3af15.jpg": "/static/media/perrito.95e3af15.jpg",
+    "static/media/wall.bfbf14a0.jpg": "/static/media/wall.bfbf14a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248907bc.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.81cf1fa9.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.2225589e.chunk.js"
+  ]
+}

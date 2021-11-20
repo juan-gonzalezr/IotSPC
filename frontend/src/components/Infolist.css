@@ -1,0 +1,8 @@
+
+.D1{    
+    justify-content: center;
+    text-align: center;
+    background-color:red; 
+    font-family:'Times New Roman', Times, serif; /* Aqui no cambia nada, así haya quitado la font family de App.js*/
+    
+}
